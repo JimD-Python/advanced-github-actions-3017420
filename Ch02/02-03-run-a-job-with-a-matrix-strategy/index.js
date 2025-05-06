@@ -1,4 +1,4 @@
-// print the platform and the node version
+// print the platform and the node version ##
 console.log('Platform: ', process.platform);
 console.log('Node    : ', process.version);
 
